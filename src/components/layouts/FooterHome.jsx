@@ -1,4 +1,3 @@
-
 import { FaFacebook, FaInstagram, FaTwitterSquare, FaTelegram, FaGooglePlay, FaApple } from 'react-icons/fa';
 
 function FooterHome() {

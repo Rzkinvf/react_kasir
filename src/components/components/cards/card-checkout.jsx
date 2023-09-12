@@ -1,3 +1,6 @@
+import { Link } from "react-router-dom";
+
+
 function CardBayar() {
   return (
     <>
@@ -51,9 +54,9 @@ function CardBayar() {
           <p>Rp 0</p>
         </div>
 
-        <button className="py-3 bg-slate-100 rounded-md w-full font-semibold text-lg hover:shadow-md transition-all">
+         <Link to="/pesanan"><button className="py-3 bg-slate-100 rounded-md w-full font-semibold text-lg hover:shadow-md transition-all">
           Buat Pesanan
-        </button>
+        </button></Link>
       </div>
     </>
   );

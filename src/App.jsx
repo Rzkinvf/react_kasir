@@ -9,6 +9,7 @@ import Home from "./components/pages/home";
 import Register from "./components/pages/register";
 import Login from "./components/pages/login";
 import Checkout from "./components/pages/checkout";
+import Pesanan from "./components/pages/pesanan";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/register" element={<Register />} />
         <Route path="/login" element={<Login />} />
         <Route path="/keranjang" element={<Checkout />} />
+        <Route path="/pesanan" element={<Pesanan />} />
       </Routes>
     </BrowserRouter>
   );
