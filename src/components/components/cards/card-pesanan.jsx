@@ -24,15 +24,14 @@ function CardPesanan() {
               </span>
               <p className="m-2 ml-7">1 X</p>
               <p>Rp 1.000</p>
-            </label>
-            <div>--------------------------------------------------------------------------------------</div>
+            </label><hr />
             <label className="flex items-center justify-between my-2">
               <span>
-                <b><span className="">JASA PENGIRIMAN</span></b><br /><br />
+                <b><span>JASA PENGIRIMAN</span></b><br /><br />
                 <p className="mt-2">EXPRESS</p>
               </span>
               <p className="mt-14">Rp 25.000</p>
-            </label>
+            </label><hr />
           </div>
           <div className="py-3 bg-slate-100 rounded-3xl  mt-4 p-4">
             <div className="flex items-center">

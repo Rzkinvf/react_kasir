@@ -14,7 +14,8 @@ function Register() {
               <div className=" border-2 rounded-md shadow-sm p-16 mb-5">
                   <h3 className="text-center text-2xl mb-5 font-semibold text-blue-500 font-kaushan">Tokoku</h3>
                   <input type="text" placeholder="Username or email" className="w-full bg-slate-100 text-black p-3 rounded-md focus:outline-none focus:ring-blue-500 focus:ring-1 focus:border-blue-500 mb-2" />
-                  <input type="password" placeholder="Password" className="w-full bg-slate-100 font-sans text-black p-3 rounded-md focus:outline-none focus:ring-blue-500  focus:ring-1 focus:border-blue-500  mb-3"/>
+                  <input type="password" placeholder="Password" className="w-full bg-slate-100 font-sans text-black p-3 rounded-md focus:outline-none focus:ring-blue-500  focus:ring-1 focus:border-blue-500  mb-2"/>
+                  <input type="password" placeholder="Confirm Password" className="w-full bg-slate-100 font-sans text-black p-3 rounded-md focus:outline-none focus:ring-blue-500  focus:ring-1 focus:border-blue-500  mb-3"/>
                   
                   <button type="button" className="text-base font-semibold text-white bg-blue-400 py-3 px-8 rounded-md w-full shadow-sm mb-5  ">Masuk</button>
                   
