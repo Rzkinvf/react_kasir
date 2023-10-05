@@ -1,0 +1,28 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "nama": "Pop Mie",
+      "price": 6.000,
+      "desc": "Produk dijual secara satuan",
+      "stock": 10,
+      "urlPoster": "https://factsofindonesia.com/wp-content/uploads/2022/06/pop-mie-585x585.png"
+    },
+    {
+      "id": 2,
+      "nama": "Buku Sidu",
+      "price": 3.000,
+      "desc": "Produk dijual secara satuan bisa 1 lusin",
+      "stock": 10,
+      "urlPoster": "https://siplahtelkom.com/public/products/34934/3333996/cfaf4e60-f5a6-4.1647223323.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Pensil Warna Deli",
+      "price": 24.000,
+      "desc": "Warna Yang Halus mudah dikombinasikan",
+      "stock": 10,
+      "urlPoster": "https://s4.bukalapak.com/img/94018100162/large/data.jpeg"
+    }
+  ]
+}

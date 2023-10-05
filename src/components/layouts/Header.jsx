@@ -30,7 +30,7 @@ function Header() {
                 <FaHome size={20}/>
                 <span>Home</span>
               </Link>
-              <Link className="m-1 hover:scale-110 transition ease-in-out duration-100 flex gap-1">
+              <Link to="/feeds" className="m-1 hover:scale-110 transition ease-in-out duration-100 flex gap-1">
                 <FaHeart size={20}/>
                 <span>Feed</span>
               </Link >

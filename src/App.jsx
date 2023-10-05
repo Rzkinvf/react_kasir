@@ -10,6 +10,7 @@ import Register from "./components/pages/register";
 import Login from "./components/pages/login";
 import Checkout from "./components/pages/checkout";
 import Pesanan from "./components/pages/pesanan";
+import Feeds from "./components/pages/feeds";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/keranjang" element={<Checkout />} />
         <Route path="/pesanan" element={<Pesanan />} />
+        <Route path="/feeds" element={<Feeds />} />
       </Routes>
     </BrowserRouter>
   );
