@@ -2,27 +2,63 @@
   "produk": [
     {
       "id": 1,
-      "nama": "Pop Mie",
-      "price": 6.000,
+      "name": "Pop Mie",
+      "price": 6000,
       "desc": "Produk dijual secara satuan",
       "stock": 10,
       "urlPoster": "https://factsofindonesia.com/wp-content/uploads/2022/06/pop-mie-585x585.png"
     },
     {
       "id": 2,
-      "nama": "Buku Sidu",
-      "price": 3.000,
+      "name": "Buku Sidu",
+      "price": 3000,
       "desc": "Produk dijual secara satuan bisa 1 lusin",
       "stock": 10,
       "urlPoster": "https://siplahtelkom.com/public/products/34934/3333996/cfaf4e60-f5a6-4.1647223323.jpg"
     },
     {
       "id": 3,
-      "nama": "Pensil Warna Deli",
-      "price": 24.000,
+      "name": "Pensil Warna Deli",
+      "price": 24000,
       "desc": "Warna Yang Halus mudah dikombinasikan",
       "stock": 10,
       "urlPoster": "https://s4.bukalapak.com/img/94018100162/large/data.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Lays ",
+      "price": 24000,
+      "desc": "Chips Potato All Variant",
+      "stock": 10,
+      "urlPoster": "https://www.rationatmydoor.com/wp-content/uploads/2019/04/lays-assorted.jpg"
     }
+    
+  ],
+  "produk2":[
+    {
+      "id": 1,
+      "name": "Hanasui Coffee Soap",
+      "price": 8500,
+      "desc": "Suitable for all skin types",
+      "stock": 10,
+      "urlPoster": "https://lh3.googleusercontent.com/-yOQygFx1JoM/X2dvxljyhcI/AAAAAAAAJNw/jj5VPPI-IsMhGpS1Mq4foh6RbYWnNQO-gCLcBGAsYHQ/s16000/Spa%2BKopi%2Bdi%2BRumah%2BAja%2Bpake%2Bproduk%2BHanasui%2BCosmetics%2BSabun%2BKopi%2BBody%2BSoap%2BBar%2BCoffee-LR.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Oreo",
+      "price": 12000,
+      "desc": "Double Stuff flavor Strawberry",
+      "stock": 10,
+      "urlPoster": "https://storage.googleapis.com/images-sof-prd-9fa6b8b.sof.prd.v8.commerce.mi9cloud.com/product-images/zoom/00066721008183.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Chocolate Delfi",
+      "price": 15000,
+      "desc": "Chocolate with milk and Almond",
+      "stock": 10,
+      "urlPoster": "https://shop.hypermart.co.id/hypermart/uploads/documents/36627142-DELFI-COKLAT-ALMOND-165g.jpg"
+    }
+    
   ]
 }
